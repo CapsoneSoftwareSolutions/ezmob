@@ -1,8 +1,6 @@
 ezmob
 =====
 
-ezmob
-
 
 Database Configuration
 
